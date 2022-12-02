@@ -34,7 +34,7 @@ const groupedDocs = docs.reduce((docs, object) => {
               {
                 section[1].map((item) => (
                   <li>
-                    <a href="{item.title}" class="text-slate-900 hover:text-slate-800">
+                    <a href={item.url} class="text-slate-900 hover:text-slate-800">
                       {item.frontmatter.title}
                     </a>
                   </li>
