@@ -6,9 +6,9 @@ An Astro documentation site theme, built with Tailwind CSS.
 <img src="https://github.com/spinalcms/astro-docs-template/blob/main/docs/astro-docs-preview.jpg?raw=true" alt="preview of the Astro documentation theme, built with Tailwind CSS" />
 
 
-## Sponsored By [Spinal](https://spinalcms.com/)
+## Sponsored By [Spinal](https://spinalcms.com/cms-for-astro/)
 
-<a href="https://spinalcms.com/" target="_blank">
+<a href="https://spinalcms.com/cms-for-astro/" target="_blank">
   <img src="https://user-images.githubusercontent.com/988051/183079316-af747ef2-42a9-47d8-9a0c-488ed4b6a689.jpg" alt="Spinal CMS logo" width="200"/>
 </a>
 
